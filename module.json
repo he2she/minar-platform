@@ -26,6 +26,9 @@
   "targetDependencies": {
     "k64f": {
       "minar-platform-k64f": "ARMmbed/minar-platform-k64f"
+    },
+    "efm32": {
+      "minar-platform-efm32": "ARMmbed/minar-platform-efm32"
     }
   }
 }
