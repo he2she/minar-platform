@@ -18,8 +18,8 @@
   "author": "James Crosby <James.Crosby@arm.com>",
   "licenses": [
     {
-      "type": "Copyright (C) 2013 ARM Limited, all rights reserved.",
-      "url": "about:blank"
+      "url": "https://spdx.org/licenses/Apache-2.0",
+      "type": "Apache-2.0"
     }
   ],
   "dependencies": {},
