@@ -22,7 +22,9 @@
       "type": "Apache-2.0"
     }
   ],
-  "dependencies": {},
+  "dependencies": {
+    "cmsis-core": "ARMmbed/cmsis-core-private"
+  },
   "targetDependencies": {
     "k64f": {
       "minar-platform-k64f": "ARMmbed/minar-platform-k64f"
