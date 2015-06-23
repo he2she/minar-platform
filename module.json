@@ -23,14 +23,14 @@
     }
   ],
   "dependencies": {
-    "cmsis-core": "ARMmbed/cmsis-core-private"
+    "cmsis-core": "ARMmbed/cmsis-core-private#~0.1.0"
   },
   "targetDependencies": {
     "k64f": {
-      "minar-platform-k64f": "ARMmbed/minar-platform-k64f"
+      "minar-platform-k64f": "ARMmbed/minar-platform-k64f#~0.0.1"
     },
     "efm32": {
-      "minar-platform-efm32": "ARMmbed/minar-platform-efm32"
+      "minar-platform-efm32": "ARMmbed/minar-platform-efm32#~0.0.1"
     }
   }
 }
