@@ -31,6 +31,9 @@
     },
     "efm32": {
       "minar-platform-efm32": "~0.0.5"
+    },
+    "stm32": {
+      "minar-platform-stm32": "~0.0.1"
     }
   }
 }
