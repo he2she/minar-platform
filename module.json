@@ -27,10 +27,10 @@
   },
   "targetDependencies": {
     "k64f": {
-      "minar-platform-k64f": "~0.0.4"
+      "minar-platform-k64f": "~0.1.0"
     },
     "efm32": {
-      "minar-platform-efm32": "~0.0.5"
+      "minar-platform-efm32": "~0.1.0"
     },
     "stm32": {
       "minar-platform-stm32": "~0.0.1"
