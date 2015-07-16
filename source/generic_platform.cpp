@@ -2,14 +2,7 @@
 
 #include "minar_platform/minar_platform.h"
 
-#define __CMSIS_GENERIC
-#if defined(TARGET_LIKE_CORTEX_M3)
-  #include "cmsis-core/core_cm3.h"
-#elif defined(TARGET_LIKE_CORTEX_M4)
-  #include "cmsis-core/core_cm4.h"
-#else
-  #error MINAR is only supported on Cortex-M3 and Cortex-M4 MCUs at the moment
-#endif
+#include "cmsis-core/core_generic.h"
 
 namespace minar {
 namespace platform {
