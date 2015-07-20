@@ -26,14 +26,8 @@
     "cmsis-core": "~0.2.0"
   },
   "targetDependencies": {
-    "k64f": {
-      "minar-platform-k64f": "~0.1.0"
-    },
-    "efm32": {
-      "minar-platform-efm32": "~0.1.0"
-    },
-    "stm32": {
-      "minar-platform-stm32": "~0.0.1"
+    "mbed": {
+      "minar-platform-mbed" : "~0.0.1"
     }
   }
 }
