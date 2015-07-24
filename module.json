@@ -1,6 +1,6 @@
 {
   "name": "minar-platform",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Platform API for MINAR.",
   "private": true,
   "scripts": {
@@ -27,7 +27,7 @@
   },
   "targetDependencies": {
     "mbed": {
-      "minar-platform-mbed" : "~0.0.1"
+      "minar-platform-mbed": "~0.0.1"
     }
   }
 }
