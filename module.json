@@ -1,0 +1,30 @@
+{
+  "name": "minar-platform",
+  "version": "0.0.0",
+  "description": "Platform API for MINAR.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ARMmbed/minar-platform.git"
+  },
+  "homepage": "https://github.com/ARMmbed/minar-platform",
+  "bugs": {
+    "url": "http://github.com/ARMmbed/minar-platform/issues",
+    "email": "project@hostname.com"
+  },
+  "author": "James Crosby <James.Crosby@arm.com>",
+  "licenses": [
+    {
+      "type": "Copyright (C) 2013 ARM Limited, all rights reserved.",
+      "url": "about:blank"
+    }
+  ],
+  "dependencies": {},
+  "targetDependencies": {
+    "k64f": {
+      "minar-platform-k64f": "ARMmbed/minar-platform-k64f"
+    }
+  }
+}
