@@ -1,6 +1,6 @@
 {
   "name": "minar-platform",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "description": "Platform API for MINAR.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -27,8 +27,8 @@
       "minar-platform-mbed": "~0.1.0",
       "cmsis-core": "~0.2.0"
     },
-    "posix" : {
-      "minar-platform-posix" : "*"
+    "posix": {
+      "minar-platform-posix": "*"
     }
   }
 }
