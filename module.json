@@ -24,8 +24,8 @@
   "dependencies": {},
   "targetDependencies": {
     "mbed": {
-      "minar-platform-mbed": "~0.1.0",
-      "cmsis-core": "~0.2.0"
+      "minar-platform-mbed": "~0.2.0",
+      "cmsis-core": "~0.4.0"
     },
     "posix": {
       "minar-platform-posix": "*"
