@@ -1,6 +1,6 @@
 {
   "name": "minar-platform",
-  "version": "0.3.4",
+  "version": "0.4.0",
   "description": "Platform API for MINAR.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
