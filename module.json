@@ -9,9 +9,9 @@
     "type": "git",
     "url": "git@github.com:ARMmbed/minar-platform.git"
   },
-  "homepage": "https://github.com/ARMmbed/minar-platform",
+  "homepage": "https://github.com/he2she/minar-platform",
   "bugs": {
-    "url": "http://github.com/ARMmbed/minar-platform/issues",
+    "url": "http://github.com/he2she/minar-platform/issues",
     "email": "project@hostname.com"
   },
   "author": "James Crosby <James.Crosby@arm.com>",
@@ -24,7 +24,7 @@
   "dependencies": {},
   "targetDependencies": {
     "mbed": {
-      "minar-platform-mbed": "^1.0.0",
+      "minar-platform-mbed": "he2she/minar-platform-mbed#v1.3.0",
       "cmsis-core": "^1.0.0"
     },
     "posix": {
